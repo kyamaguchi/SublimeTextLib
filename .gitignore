@@ -1,10 +1,14 @@
 Pristine Packages
+Backup
+Settings/*.sublime_session
+Settings/License.sublime_license
 
 Packages/Default/*.pyc
 Packages/Default/**/*.pyc
 Packages/Default/*.cache
 Packages/Default/**/*.cache
 
+# Initial packages
 Packages/ASP
 Packages/ActionScript
 Packages/AppleScript
@@ -52,5 +56,21 @@ Packages/Vintage
 Packages/XML
 Packages/YAML
 
-Settings/*.sublime_session
+# Additional packages
+Packages/Alignment/
+Packages/CoffeeScript/
+Packages/DetectSyntax/
+Packages/FileDiffs/
+Packages/Git/
+Packages/Haml/
+Packages/Package Control/
+Packages/RSpec/
+Packages/Rails Related Files/
+Packages/Railscasts.tmTheme
+Packages/Railscasts.tmTheme.cache
+Packages/Sass/
+Packages/TrailingSpaces/
+Packages/WordHighlight/
+
+Installed Packages/Package Control.sublime-package
 
