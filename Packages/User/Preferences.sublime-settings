@@ -1,4 +1,13 @@
-// Settings in here override those in "Default/Preferences.sublime-settings", and
-// are overridden in turn by file type specific settings.
 {
+	"color_scheme": "Packages/Railscasts.tmTheme",
+	"font_size": 12.0,
+  "folder_exclude_patterns": ["tmp", "log", ".sass-cache", ".git", ".bundle"],
+  "file_exclude_patterns": ["*.tar.gz", "*.sql", "*.log", ".DS_Store", "*.db", "*.sqlite3", "*.pdf", "*.uml", "*.graffle"],
+	"ignored_packages":
+	[
+		"Vintage",
+		"BracketHighlighter"
+	],
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true
 }
