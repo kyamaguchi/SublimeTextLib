@@ -1,2 +1,6 @@
 [
+  { "keys": ["super+alt+a","b"], "command": "apidock_ruby_search_selection"},
+  { "keys": ["super+alt+a","s"], "command": "apidock_rspec_search_selection"},
+  { "keys": ["super+alt+a","r"], "command": "apidock_rails_search_selection"}
+
 ]
