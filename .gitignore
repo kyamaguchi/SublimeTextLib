@@ -57,6 +57,7 @@ Packages/XML
 Packages/YAML
 
 # Additional packages
+Packages/*.cache
 Packages/Alignment/
 Packages/Apidock/
 Packages/BracketHighlighter/
@@ -69,8 +70,6 @@ Packages/Haml/
 Packages/Package Control/
 Packages/RSpec/
 Packages/Rails Related Files/
-Packages/Railscasts.tmTheme
-Packages/Railscasts.tmTheme.cache
 Packages/Sass/
 Packages/TrailingSpaces/
 Packages/WordHighlight/
