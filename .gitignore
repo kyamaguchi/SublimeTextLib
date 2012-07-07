@@ -8,6 +8,31 @@ Packages/Default/**/*.pyc
 Packages/Default/*.cache
 Packages/Default/**/*.cache
 
+
+# Additional packages
+Packages/*.cache
+Packages/Alignment/
+Packages/Apidock/
+Packages/BracketHighlighter/
+Packages/ChangeQuotes/
+Packages/CoffeeScript/
+Packages/DetectSyntax/
+Packages/FileDiffs/
+Packages/Git/
+Packages/Haml/
+Packages/Package Control/
+Packages/RSpec/
+Packages/Rails Related Files/
+Packages/Sass/
+Packages/TrailingSpaces/
+Packages/WordHighlight/
+
+
+# Should not be shared
+Packages/User/Package Control.sublime-settings
+Installed Packages/Package Control.sublime-package
+
+
 # Initial packages
 Packages/ASP
 Packages/ActionScript
@@ -55,27 +80,3 @@ Packages/Theme - Default
 Packages/Vintage
 Packages/XML
 Packages/YAML
-
-# Additional packages
-Packages/*.cache
-Packages/Alignment/
-Packages/Apidock/
-Packages/BracketHighlighter/
-Packages/ChangeQuotes/
-Packages/CoffeeScript/
-Packages/DetectSyntax/
-Packages/FileDiffs/
-Packages/Git/
-Packages/Haml/
-Packages/Package Control/
-Packages/RSpec/
-Packages/Rails Related Files/
-Packages/Sass/
-Packages/TrailingSpaces/
-Packages/WordHighlight/
-
-# Should not be shared
-Packages/User/Package Control.sublime-settings
-
-Installed Packages/Package Control.sublime-package
-
