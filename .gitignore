@@ -58,6 +58,9 @@ Packages/YAML
 
 # Additional packages
 Packages/Alignment/
+Packages/Apidock/
+Packages/BracketHighlighter/
+Packages/ChangeQuotes/
 Packages/CoffeeScript/
 Packages/DetectSyntax/
 Packages/FileDiffs/
@@ -71,6 +74,9 @@ Packages/Railscasts.tmTheme.cache
 Packages/Sass/
 Packages/TrailingSpaces/
 Packages/WordHighlight/
+
+# Should not be shared
+Packages/User/Package Control.sublime-settings
 
 Installed Packages/Package Control.sublime-package
 
