@@ -13,7 +13,6 @@ Packages/Default/**/*.cache
 Packages/*.cache
 Packages/Alignment/
 Packages/Apidock/
-# Packages/BracketHighlighter/
 Packages/ChangeQuotes/
 Packages/CoffeeScript/
 Packages/DetectSyntax/
@@ -23,7 +22,11 @@ Packages/Haml/
 Packages/Package Control/
 Packages/RSpec/
 Packages/Rails Related Files/
+Packages/RailsCasts Colour Scheme/
+Packages/Ruby 1.9 Hash Converter/
+Packages/RubyTest/
 Packages/Sass/
+Packages/Simple Rails Navigator/
 Packages/TrailingSpaces/
 Packages/WordHighlight/
 

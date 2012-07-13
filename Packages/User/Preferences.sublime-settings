@@ -30,8 +30,7 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"BracketHighlighter"
+		"Vintage"
 	],
 	"line_padding_bottom": 0.5,
 	"line_padding_top": 0.5,
