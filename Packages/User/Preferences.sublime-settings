@@ -1,7 +1,9 @@
 {
+  "auto_complete": false,
   "auto_complete_commit_on_tab": true,
   "bold_folder_labels": true,
   "color_scheme": "Packages/Railscasts.tmTheme",
+  "draw_white_space": "all",
   "font_size": 12.0,
   "folder_exclude_patterns": ["tmp", "log", ".sass-cache", ".git", ".bundle"],
   "file_exclude_patterns": ["*.tar.gz", "*.sql", "*.log", ".DS_Store", "*.db", "*.sqlite3", "*.pdf", "*.uml", "*.graffle"],
