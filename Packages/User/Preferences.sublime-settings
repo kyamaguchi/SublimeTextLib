@@ -1,28 +1,46 @@
 {
-  "auto_complete": false,
-  "auto_complete_commit_on_tab": true,
-  "bold_folder_labels": true,
-  "color_scheme": "Packages/Railscasts.tmTheme",
-  "draw_white_space": "all",
-  "font_size": 12.0,
-  "folder_exclude_patterns": ["tmp", "log", ".sass-cache", ".git", ".bundle"],
-  "file_exclude_patterns": ["*.tar.gz", "*.sql", "*.log", ".DS_Store", "*.db", "*.sqlite3", "*.pdf", "*.uml", "*.graffle"],
-  "ignored_packages":
-  [
-    "Vintage",
-    "BracketHighlighter"
-  ],
-  "ensure_newline_at_eof_on_save": true,
-  "highlight_line": true,
-  "highlight_modified_tabs": true,
-  "line_padding_bottom": 0.5,
-  "line_padding_top": 0.5,
-  "new_window_settings":
-  {
-    "show_minimap": false
-  },
-  "save_on_focus_lost": true,
-  "tab_size": 2,
-  "trim_trailing_white_space_on_save": true,
-  "translate_tabs_to_spaces": true
+	"auto_complete": false,
+	"auto_complete_commit_on_tab": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/RailsCasts Colour Scheme/RailsCastsColorScheme.tmTheme",
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		"*.tar.gz",
+		"*.sql",
+		"*.log",
+		".DS_Store",
+		"*.db",
+		"*.sqlite3",
+		"*.pdf",
+		"*.uml",
+		"*.graffle"
+	],
+	"folder_exclude_patterns":
+	[
+		"tmp",
+		"log",
+		".sass-cache",
+		".git",
+		".bundle"
+	],
+	"font_size": 12.0,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"BracketHighlighter"
+	],
+	"line_padding_bottom": 0.5,
+	"line_padding_top": 0.5,
+	"new_window_settings":
+	{
+		"show_minimap": false
+	},
+	"save_on_focus_lost": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
 }
