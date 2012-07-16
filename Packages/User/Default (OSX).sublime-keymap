@@ -3,6 +3,7 @@
   { "keys": ["ctrl+shift+d"], "command": "file_diff_menu" },
   { "keys": ["super+shift+r"], "command": "reveal_in_side_bar"},
   { "keys": ["ctrl+shift+7"], "command": "change_quotes"},
+  { "keys": ["ctrl+:"], "command": "toggle_symbol"},
 
   { "keys": ["super+alt+a","b"], "command": "apidock_ruby_search_selection"},
   { "keys": ["super+alt+a","s"], "command": "apidock_rspec_search_selection"},
