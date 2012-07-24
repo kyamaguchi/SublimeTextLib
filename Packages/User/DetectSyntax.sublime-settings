@@ -14,7 +14,8 @@
       "name": "Ruby",
       "rules": [
         // consular conf files
-        {"file_name": ".*\\.term$"}
+        {"file_name": ".*\\.term$"},
+        {"file_name": ".*\\Termfile$"}
       ]
     }
 	]
