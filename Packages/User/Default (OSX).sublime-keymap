@@ -6,6 +6,10 @@
   { "keys": ["ctrl+shift+7"], "command": "change_quotes"},
   { "keys": ["ctrl+:"], "command": "toggle_symbol"},
 
+  // bring back slurp_replace_string keymap
+  { "keys": ["super+shift+y"], "command": "run_last_ruby_test" },
+  { "keys": ["super+shift+e"], "command": "slurp_replace_string" },
+
   { "keys": ["super+alt+a","b"], "command": "apidock_ruby_search_selection"},
   { "keys": ["super+alt+a","s"], "command": "apidock_rspec_search_selection"},
   { "keys": ["super+alt+a","r"], "command": "apidock_rails_search_selection"}
