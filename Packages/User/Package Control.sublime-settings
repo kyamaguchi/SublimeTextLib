@@ -1,0 +1,24 @@
+{
+	"auto_upgrade_last_run": 1343179131,
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Apidock",
+		"ChangeQuotes",
+		"CoffeeScript",
+		"DetectSyntax",
+		"FileDiffs",
+		"Git",
+		"Haml",
+		"Package Control",
+		"Rails Related Files",
+		"RailsCasts Colour Scheme",
+		"Ruby 1.9 Hash Converter",
+		"RubyTest",
+		"Sass",
+		"SideBarEnhancements",
+		"Simple Rails Navigator",
+		"Toggle Symbol to String",
+		"WordHighlight"
+	]
+}
