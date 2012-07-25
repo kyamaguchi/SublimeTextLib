@@ -2,9 +2,12 @@
 	"auto_upgrade_last_run": 1343179131,
 	"installed_packages":
 	[
+		"Alignment",
 		"All Autocomplete",
 		"Apidock",
 		"ChangeQuotes",
+		"Chuby Ninja Color Scheme",
+		"CoffeeCompile",
 		"CoffeeScript",
 		"DetectSyntax",
 		"FileDiffs",
@@ -13,6 +16,7 @@
 		"Package Control",
 		"Rails Related Files",
 		"RailsCasts Colour Scheme",
+		"RSpec",
 		"Ruby 1.9 Hash Converter",
 		"RubyTest",
 		"Sass",
