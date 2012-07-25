@@ -13,6 +13,7 @@ Packages/User/*.pyc
 # Additional packages
 Packages/*.cache
 Packages/Alignment/
+Packages/All Autocomplete/
 Packages/Apidock/
 Packages/ChangeQuotes/
 Packages/CoffeeScript/
