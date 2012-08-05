@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+it { should validate_presence_of :${1:name} }
+$0
+]]></content>
+  <tabTrigger>isv</tabTrigger>
+  <scope>source.ruby.rspec</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+it { should belong_to(:${1:parent}) }
+$0
+]]></content>
+  <tabTrigger>isb</tabTrigger>
+  <scope>source.ruby.rspec</scope>
+</snippet>

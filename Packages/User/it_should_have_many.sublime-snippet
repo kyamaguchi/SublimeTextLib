@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+it { should have_many(:${1:children}) }
+$0
+]]></content>
+  <tabTrigger>ishm</tabTrigger>
+  <scope>source.ruby.rspec</scope>
+</snippet>

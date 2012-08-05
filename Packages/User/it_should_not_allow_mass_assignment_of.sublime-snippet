@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+it { should_not allow_mass_assignment_of :${1:name} }
+$0
+]]></content>
+  <tabTrigger>isnm</tabTrigger>
+  <scope>source.ruby.rspec</scope>
+</snippet>
