@@ -32,6 +32,7 @@
 	[
 		"Vintage"
 	],
+	"indent_guide_options": ["draw_active", "draw_normal"],
 	"line_padding_bottom": 0.5,
 	"line_padding_top": 0.5,
 	"new_window_settings":
