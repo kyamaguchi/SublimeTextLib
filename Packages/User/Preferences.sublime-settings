@@ -21,6 +21,7 @@
 	[
 		"tmp",
 		"log",
+		"coverage",
 		".sass-cache",
 		".git",
 		".bundle"
