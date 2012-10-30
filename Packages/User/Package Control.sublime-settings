@@ -17,6 +17,7 @@
 		"HTML2Haml",
 		"Markdown Preview",
 		"Package Control",
+		"Rails Partial",
 		"Rails Related Files",
 		"RailsCasts Colour Scheme",
 		"RSpec",
@@ -27,6 +28,7 @@
 		"Simple Rails Navigator",
 		"SublimeBlockCursor",
 		"SublimeCodeIntel",
+		"SublimeLinter",
 		"Toggle Symbol to String",
 		"WordHighlight"
 	]
