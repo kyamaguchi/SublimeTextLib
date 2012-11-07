@@ -8,6 +8,11 @@
   { "keys": ["ctrl+shift+d"], "command": "file_diff_menu" },
   { "keys": ["super+shift+r"], "command": "reveal_in_side_bar"},
   { "keys": ["super+alt+w"], "command": "close_other_tabs" },
+  { "keys": ["super+alt+shift+w"], "command": "toggle_whole_word", "context":
+    [
+      { "key": "setting.is_widget", "operator": "equal", "operand": true }
+    ]
+  },
   { "keys": ["ctrl+shift+7"], "command": "change_quotes"},
   { "keys": ["ctrl+:"], "command": "toggle_symbol"},
 
