@@ -11,6 +11,7 @@
 		"CoffeeCompile",
 		"CoffeeScript",
 		"DetectSyntax",
+		"ERB Insert and Toggle Commands",
 		"FileDiffs",
 		"Git",
 		"Haml",

@@ -15,7 +15,11 @@
   },
   { "keys": ["ctrl+shift+7"], "command": "change_quotes"},
   { "keys": ["ctrl+:"], "command": "toggle_symbol"},
-
+  { "keys": ["super+shift+."], "command": "erb", "context":
+    [
+      { "key": "selector", "operator": "equal", "operand": "text.html.ruby, text.haml, source.yaml, source.css, source.scss, source.js, source.coffee" }
+    ]
+  },
   // bring back slurp_replace_string keymap
   { "keys": ["super+shift+y"], "command": "run_last_ruby_test" },
   { "keys": ["alt+shift+s"], "command": "run_single_ruby_test" },
