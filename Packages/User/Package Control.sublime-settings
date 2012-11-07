@@ -16,6 +16,7 @@
 		"Git",
 		"Haml",
 		"HTML2Haml",
+		"Live CSS",
 		"Markdown Preview",
 		"Package Control",
 		"Rails Partial",
@@ -31,6 +32,7 @@
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"Toggle Symbol to String",
+		"Twitter Bootstrap Snippets",
 		"WordHighlight"
 	]
 }
