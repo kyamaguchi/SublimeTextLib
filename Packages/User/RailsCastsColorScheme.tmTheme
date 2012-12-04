@@ -23,6 +23,16 @@
         <string>#FFE792</string>
         <key>selectionForeground</key>
         <string>#000000</string>
+
+        <key>bracketsForeground</key>
+        <string>#00ff00</string>
+        <key>bracketsOptions</key>
+        <string>foreground</string>
+
+        <key>bracketContentsForeground</key>
+        <string>#00ff00</string>
+        <key>bracketContentsOptions</key>
+        <string>foreground</string>
       </dict>
     </dict>
     <dict>
