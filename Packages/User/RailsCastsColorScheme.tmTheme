@@ -20,7 +20,9 @@
         <key>lineHighlight</key>
         <string>#333399</string>
         <key>selection</key>
-        <string>#3D4456E0</string>
+        <string>#FFE792</string>
+        <key>selectionForeground</key>
+        <string>#000000</string>
       </dict>
     </dict>
     <dict>
