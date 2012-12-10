@@ -19,6 +19,7 @@
 	],
 	"folder_exclude_patterns":
 	[
+		"Backup",
 		"tmp",
 		"log",
 		"coverage",
