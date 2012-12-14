@@ -8,6 +8,8 @@ Packages/Default/**/*.pyc
 Packages/Default/*.cache
 Packages/Default/**/*.cache
 Packages/User/*.pyc
+Packages/User/*.cache
+Packages/User/Colorized-*
 
 
 # Additional packages
