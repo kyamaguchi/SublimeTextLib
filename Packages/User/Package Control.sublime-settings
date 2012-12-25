@@ -13,6 +13,7 @@
 		"DetectSyntax",
 		"ERB Insert and Toggle Commands",
 		"FileDiffs",
+		"FindKeyConflicts",
 		"Git",
 		"GitGutter",
 		"Goto Documentation",
