@@ -3,9 +3,9 @@
 	"auto_complete_commit_on_tab": true,
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/RailsCastsColorScheme.tmTheme",
+	"disable_formatted_linebreak": true,
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
-	"disable_formatted_linebreak": true,
 	"file_exclude_patterns":
 	[
 		"*.tar.gz",
