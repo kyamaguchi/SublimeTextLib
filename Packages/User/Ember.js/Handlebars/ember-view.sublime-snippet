@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+{{view "${1:MyApp.ViewWithATemplateDefined}"}}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>evi</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

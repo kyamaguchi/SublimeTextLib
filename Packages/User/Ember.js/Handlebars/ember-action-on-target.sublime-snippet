@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+{{action "${1:actionName}" on="${2:click}" target="${3:this}"}}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>eaot</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+{{#with "${1:this}" as "${$2:that}"}}
+	${3}
+{{/with}}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ewias</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

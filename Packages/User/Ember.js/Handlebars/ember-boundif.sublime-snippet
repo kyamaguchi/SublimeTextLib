@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+{{#boundIf "${1:content.shouldDisplayTitle}"}}
+    ${2:{{content.title}}}
+{{/boundIf}}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>eboif</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
