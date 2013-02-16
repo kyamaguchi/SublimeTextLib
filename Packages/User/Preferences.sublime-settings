@@ -16,7 +16,8 @@
 		"*.sqlite3",
 		"*.pdf",
 		"*.uml",
-		"*.graffle"
+		"*.graffle",
+		"*.pyc"
 	],
 	"folder_exclude_patterns":
 	[
