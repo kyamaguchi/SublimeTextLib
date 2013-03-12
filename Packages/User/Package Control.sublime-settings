@@ -5,6 +5,7 @@
 		"Alignment",
 		"All Autocomplete",
 		"Apidock",
+		"Capybara Snippets",
 		"Case Conversion",
 		"ChangeQuotes",
 		"Chuby Ninja Color Scheme",
@@ -41,6 +42,8 @@
 		"Sublime-KnockoutJS-Snippets",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeREPL",
+		"TabsLimiter",
 		"Toggle Symbol to String",
 		"Twitter Bootstrap Snippets",
 		"WordHighlight"
