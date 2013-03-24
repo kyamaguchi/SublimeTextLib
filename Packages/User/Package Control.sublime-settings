@@ -12,6 +12,7 @@
 		"CoffeeCompile",
 		"CoffeeScript",
 		"DetectSyntax",
+		"Duplicate Lines",
 		"ERB Insert and Toggle Commands",
 		"FileClose",
 		"FileDiffs",
