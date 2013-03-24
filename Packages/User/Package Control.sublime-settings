@@ -13,6 +13,7 @@
 		"CoffeeScript",
 		"DetectSyntax",
 		"ERB Insert and Toggle Commands",
+		"FileClose",
 		"FileDiffs",
 		"FindKeyConflicts",
 		"Git",
