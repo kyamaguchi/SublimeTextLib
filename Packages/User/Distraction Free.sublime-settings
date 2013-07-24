@@ -1,0 +1,10 @@
+{
+  // http://www.sublimetext.com/docs/2/distraction_free.html
+  "font_size": 28.0,
+  "line_numbers": true,
+  "gutter": true,
+  "draw_centered": false,
+  // "wrap_width": 80,
+  "word_wrap": false,
+  "scroll_past_end": true
+}
